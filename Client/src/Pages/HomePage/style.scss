@@ -4,6 +4,7 @@
     height: 100vh;
     margin-left: 800px;
     background-image: url("https://preview.colorlib.com/theme/dealers/images/new/person_transparent.png");
+padding-top: 300px;
 };
 
 .first-btn{
@@ -22,11 +23,11 @@
 
 .txt-img{
   width: 600px;
-    padding-top: 250px;
-    padding-right: 100px;
   align-items: center;
+
   flex-direction: column-reverse;
    h1{
+    
     font-size: 64px;
      
    } 

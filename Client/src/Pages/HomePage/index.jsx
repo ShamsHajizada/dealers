@@ -26,12 +26,12 @@ const HomePage = () => {
     <p>Summer Collection</p>
     <br />
     <h3>1,499</h3>
-    <br />
-  </div>
-  <div className="btn-img">
+    <br /><div className="btn-img">
      <button className='first-btn'>SHOP NOW</button>
   <button className='second-btn'>SHOP NOW</button>
   </div>
+  </div>
+  
  
 </div>
 <section className='card-section'>
