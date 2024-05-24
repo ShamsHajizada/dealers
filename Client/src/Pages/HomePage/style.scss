@@ -1,0 +1,126 @@
+// MAIN-SECTION
+.main-section{
+    width: 1000px;
+    height: 100vh;
+    margin-left: 800px;
+    background-image: url("https://preview.colorlib.com/theme/dealers/images/new/person_transparent.png");
+};
+
+.first-btn{
+    color: #0068F9;
+    border-color: #0068F9;
+    border-radius: 2px;
+    padding: 15px;
+    margin-right: 10px;
+}
+.second-btn{
+    background-color: #0068F9;
+    color: white;
+    border-color: white;
+    padding: 15px;
+}
+
+.txt-img{
+  width: 600px;
+    padding-top: 250px;
+    padding-right: 100px;
+  align-items: center;
+  flex-direction: column-reverse;
+   h1{
+    font-size: 64px;
+     
+   } 
+   p{
+    font-size: 20px;
+   }
+   h3{
+    font-size: 32px;
+   }
+}
+
+.shopnow-woman{
+    width: 1500px;
+    height: 700px;
+    background-image: url("https://preview.colorlib.com/theme/dealers/images/model_woman_1.png");
+}
+
+
+// SHOPNOW-SECTION
+
+.shopnow-woman{
+    width: 1500px;
+    padding-top: 300px;
+    padding-left: 1250px;
+    h5{
+        font-size: 14px;
+        margin-left: 10px;
+    }
+    h1{
+        font-size: 70px;
+    }
+    .btn-shop{
+        background-color:  black;
+        color: white;
+        padding: 20px;
+        border: none;
+       margin-left: 90px;
+    }
+}
+
+.shopnow-man{
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 700px;
+    background-image: url("https://preview.colorlib.com/theme/dealers/images/model_5.png");
+}
+
+.shopnow-man{
+    width: 1800px;
+    padding-top: 200px;
+    padding-left: 1250px;
+    
+    
+    .txt-man{
+       
+       
+        font-size: 14px;
+        margin-left: 10px;
+        
+    
+    }
+    h1{
+        font-size: 70px;
+    }
+    .btn-shop{
+        background-color:  black;
+        color: white;
+        padding: 20px;
+        border: none;
+       margin-left: 90px;
+    }}
+
+    // CARDS SECTION
+
+    .cards{
+        width: 1500px;
+        margin-left: 250px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        display: flex;
+        justify-content: center;
+    
+        flex-wrap: wrap;
+    }
+
+    // COLLECTIONS
+    .collections{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 350px;
+    }
+
+    .col-txt{
+        font-size: 32px;
+        padding-left: 830px;
+        margin-top: 20px;
+    }
